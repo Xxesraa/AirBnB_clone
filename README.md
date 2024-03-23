@@ -8,19 +8,19 @@ $ python3 console.py
 ## How to Use
 Once the command interpreter is running, you can use the following commands to interact with the application:
 -
-create 
+create
 : Create a new instance of a class
 -
-show  
+show
 : Display information about a specific instance
 -
-update    
+update
 : Update the attributes of an instance
 -
-destroy  
+destroy
 : Delete a specific instance
 -
-all 
+all
 : Display all instances of a class
 -
 quit
